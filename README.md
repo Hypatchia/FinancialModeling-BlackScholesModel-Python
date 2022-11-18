@@ -1,9 +1,11 @@
 # GeomBM-FinancialModeling
 Geometric Brownian Motion for Financial Data (Time Series ).
-### 
 
-### F
+## Project: Black Scholes Model: Estimation  & Simulation
 
-:https://colab.research.google.com/drive/1817u9mpSpDtyFRu__ani29VnVOgedgdi?usp=sharing **
-  
-  
+## Context:
+## Financial Data :
+## Approach :
+### Estimation of CRSPR Stock
+### Simulation of CRSPR Stock
+### Simulation of ARK ETF GENOMICS
